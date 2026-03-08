@@ -22,7 +22,7 @@ RF06 – O sistema deve exibir o número de tentativas restantes.
 
 RF07 – O sistema deve exibir as letras já utilizadas pelo jogador.
 
-RF08 – O sistema deve atualizar automaticamente o estado do jogo a cada tentativa.
+RF08 – O sistema deve atualizar automaticamente o estadoAo jogo a cada tentativa.
 
 RF09 – O sistema deve exibir mensagem de vitória quando o jogador acertar a palavra.
 
